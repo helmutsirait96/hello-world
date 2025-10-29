@@ -1,3 +1,5 @@
 - Introduction to Github
 - create repository 
 - create branch 
+- make and commit changes
+- open a pull request
