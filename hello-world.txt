@@ -2,6 +2,7 @@
 - create repository 
 - create branch 
 - make and commit changes
+  - commit message
 - open a pull request
 - conclusion
    - conclusion 4
